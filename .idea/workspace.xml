@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54929e20-2074-4952-83ba-4ca676f4944f" name="Changes" comment="initial comm.">
-      <change afterPath="$PROJECT_DIR$/Question_1_diagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SQL_Alchemy_&amp;_Multi_threaded_basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sql_alchemy_threaded_basics_4.3.25.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_4.3.2025.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +48,7 @@
     "Python.HW_4.3.2025.executor": "Run",
     "Python.Lesson_examples.executor": "Run",
     "Python.Question_1.executor": "Run",
+    "Python.Question_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
@@ -206,7 +204,15 @@
       <option name="project" value="LOCAL‎" />
       <updated>1741091980140</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎-00002" summary="initial comm.">
+      <option name="closed" value="true" />
+      <created>1741116559293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1741116559293</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
