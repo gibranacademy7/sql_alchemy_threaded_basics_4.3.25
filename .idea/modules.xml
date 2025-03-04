@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SQL_Alchemy_&amp;_Multi_threaded_basics.iml" filepath="$PROJECT_DIR$/.idea/SQL_Alchemy_&amp;_Multi_threaded_basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sql_alchemy_threaded_basics_4.3.25.iml" filepath="$PROJECT_DIR$/.idea/sql_alchemy_threaded_basics_4.3.25.iml" />
     </modules>
   </component>
 </project>
