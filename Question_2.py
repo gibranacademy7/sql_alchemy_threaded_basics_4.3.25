@@ -1,10 +1,10 @@
-# Question 2:
+"""Question 2:
 
-# Write a program that creates two threads and runs them in parallel.
+Write a program that creates two threads and runs them in parallel.
 
-# The first thread prints the numbers from 1 to 100.
-# The second thread prints the numbers from 100 to 1 (in descending order).
-#==========================================================================
+The first thread prints the numbers from 1 to 100.
+The second thread prints the numbers from 100 to 1 (in descending order).
+=========================================================================="""
 
 import threading
 

@@ -1,9 +1,9 @@
-# Question 3:
+"""Question 3:
 
-# "As is well known, due to the GIL (Global Interpreter Lock), execution is not truly parallel.
-# Modify the code from question 2 so that the threads run in parallel using multiprocessing
-# (see example in example4_count_pr.py)."
-#==============================================================================
+"As is well known, due to the GIL (Global Interpreter Lock), execution is not truly parallel.
+Modify the code from question 2 so that the threads run in parallel using multiprocessing
+(see example in example4_count_pr.py)."
+=============================================================================="""
 
 import multiprocessing
 
