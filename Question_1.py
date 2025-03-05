@@ -1,26 +1,26 @@
-# Question 1:
+"""Question 1:
 
-# Create a table named books containing the following fields:
+Create a table named books containing the following fields:
 
-# id: A serial number that serves as the Primary Key with Auto Increment.
-# title: The title of the book, which must be unique.
-# price: The price of the book, which must be a decimal value and cannot be NULL.
-# Tasks:
-# Insert the following books into the table:
+id: A serial number that serves as the Primary Key with Auto Increment.
+title: The title of the book, which must be unique.
+price: The price of the book, which must be a decimal value and cannot be NULL.
+Tasks:
+Insert the following books into the table:
 
-# Title: "Harry Potter and the Sorcerer's Stone" | Price: 89.90
-# Title: "The Little Prince" | Price: 45.50
-# Title: "1984" | Price: 79.90
-# Title: "Les Misérables" | Price: 99.00
-# Title: "Crime and Punishment" | Price: 69.90
-# Write a query that retrieves and prints all books from the table.
+Title: "Harry Potter and the Sorcerer's Stone" | Price: 89.90
+Title: "The Little Prince" | Price: 45.50
+Title: "1984" | Price: 79.90
+Title: "Les Misérables" | Price: 99.00
+Title: "Crime and Punishment" | Price: 69.90
+Write a query that retrieves and prints all books from the table.
 
-# Write a query that retrieves and prints only the books with a price greater than 70.
+Write a query that retrieves and prints only the books with a price greater than 70.
 
-# Write a query that updates the price of the book "1984" to 89.5.
+Write a query that updates the price of the book "1984" to 89.5.
 
-# Write a query that deletes the books whose price is 99.
-#========================================================================
+Write a query that deletes the books whose price is 99.
+========================================================================"""
 
 from sqlalchemy import create_engine, Column, Integer, String, Float
 from sqlalchemy.orm import sessionmaker, declarative_base
