@@ -1,11 +1,11 @@
-#Question 4:
+"""Question 4:
 
-# In the program found at the following link -
-# https://github.com/pythonai170624/03.03.2025/blob/master/multi_threaded/hw.py
-# They want the printing of capital city names to be done sequentially (i.e., only one thread at a time can do this, and not two simultaneously).
-# To implement this, add a locking mechanism to the part of the code that prints the capital cities.
-# In other words, the goal is to add a lock (see the example in py.lock_example) to this section of the code.
-#==============================================================================================
+In the program found at the following link -
+https://github.com/pythonai170624/03.03.2025/blob/master/multi_threaded/hw.py
+They want the printing of capital city names to be done sequentially (i.e., only one thread at a time can do this, and not two simultaneously).
+To implement this, add a locking mechanism to the part of the code that prints the capital cities.
+In other words, the goal is to add a lock (see the example in py.lock_example) to this section of the code.
+=============================================================================================="""
 
 import threading
 import time
